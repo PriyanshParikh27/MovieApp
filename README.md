@@ -26,7 +26,7 @@ Follow these steps to download and run the project on your local machine:
    Open Terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/PriyanshParikh27/MovieApp.git
    ```
 
 2. **Open the Project in Xcode:**
