@@ -13,6 +13,10 @@
 		FA4A8F6C2BA9267C00446138 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FA4A8F6B2BA9267C00446138 /* Base */; };
 		FA4A8F6E2BA9268200446138 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4A8F6D2BA9268200446138 /* Assets.xcassets */; };
 		FA4A8F712BA9268200446138 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FA4A8F702BA9268200446138 /* Base */; };
+		FA4A8F792BAE3B6400446138 /* MovieDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4A8F782BAE3B6400446138 /* MovieDetails.swift */; };
+		FA4A8F7B2BB0B15500446138 /* MovieClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4A8F7A2BB0B15400446138 /* MovieClass.swift */; };
+		FA4A8F7D2BB0BEE900446138 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4A8F7C2BB0BEE900446138 /* MyTableViewCell.swift */; };
+		FA4A8F7F2BB113C700446138 /* AddMovie.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4A8F7E2BB113C700446138 /* AddMovie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		FA4A8F6D2BA9268200446138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA4A8F702BA9268200446138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA4A8F722BA9268200446138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA4A8F782BAE3B6400446138 /* MovieDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetails.swift; sourceTree = "<group>"; };
+		FA4A8F7A2BB0B15400446138 /* MovieClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieClass.swift; sourceTree = "<group>"; };
+		FA4A8F7C2BB0BEE900446138 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+		FA4A8F7E2BB113C700446138 /* AddMovie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMovie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +67,11 @@
 				FA4A8F642BA9267C00446138 /* AppDelegate.swift */,
 				FA4A8F662BA9267C00446138 /* SceneDelegate.swift */,
 				FA4A8F682BA9267C00446138 /* ViewController.swift */,
+				FA4A8F7E2BB113C700446138 /* AddMovie.swift */,
 				FA4A8F6A2BA9267C00446138 /* Main.storyboard */,
+				FA4A8F7C2BB0BEE900446138 /* MyTableViewCell.swift */,
+				FA4A8F7A2BB0B15400446138 /* MovieClass.swift */,
+				FA4A8F782BAE3B6400446138 /* MovieDetails.swift */,
 				FA4A8F6D2BA9268200446138 /* Assets.xcassets */,
 				FA4A8F6F2BA9268200446138 /* LaunchScreen.storyboard */,
 				FA4A8F722BA9268200446138 /* Info.plist */,
@@ -141,6 +153,10 @@
 				FA4A8F692BA9267C00446138 /* ViewController.swift in Sources */,
 				FA4A8F652BA9267C00446138 /* AppDelegate.swift in Sources */,
 				FA4A8F672BA9267C00446138 /* SceneDelegate.swift in Sources */,
+				FA4A8F7B2BB0B15500446138 /* MovieClass.swift in Sources */,
+				FA4A8F792BAE3B6400446138 /* MovieDetails.swift in Sources */,
+				FA4A8F7F2BB113C700446138 /* AddMovie.swift in Sources */,
+				FA4A8F7D2BB0BEE900446138 /* MyTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
